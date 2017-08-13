@@ -65,7 +65,7 @@
                         </div>
                     <hr class="my-4">
                     <button type="button" class="btn btn-primary btn-lg btn-block" data-toggle="modal" data-target="#result" onclick="query()">查询</button>
-                    <button type="button" class="btn btn-warning btn-lg btn-block" href="https://github.com/gafergit/simplequery">View On Github</button>
+                    <button type="button" class="btn btn-warning btn-lg btn-block" onclick="git()">View On Github</button>
                     </form>
                 </div>
             </div>
