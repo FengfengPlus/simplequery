@@ -14,6 +14,8 @@ function query() {
             document.getElementById("fin").innerHTML=data;         
         }   ,
      });
-
-     
     }
+
+function git() {
+    window.open("https://github.com/gafergit/simplequery");
+}
